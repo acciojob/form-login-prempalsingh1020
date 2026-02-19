@@ -16,7 +16,7 @@
 // 	}
 // 	return false;
 
-}
+// }
 
 function getFormvalue() {
     let form = document.forms["form1"];
