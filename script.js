@@ -14,5 +14,6 @@ function getFormvalue(e) {
 	else{
 		alert(full_name);
 	}
+	return false;
 
 }
