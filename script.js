@@ -1,4 +1,4 @@
-function getFormvalue(e) {
+function getFormvalue() {
     //Write your code here;
 	e.preventDefault();
 	let form  = document.forms["form1"];
